@@ -30,7 +30,7 @@ Let's Float the Boat
 OUTPUT:
 USS Hermon is already docked.
 USS Hermon is undocking
-USS Hermon isn't docked.
+USS Hermon is already undocked.
 USS Hermon is docking
 USS Hermon is already docked.
 USS Hermon can't submerge!
