@@ -15,7 +15,7 @@ Use the following Pseudocode to create this program:
 10.) If it is docked print "(boat name) is undocking" and set the isDocked attribute to False.
 11.) Add another class called Submarine( ) that will inherit the Boat( ) class.
 12.) In the Submarine( ) class create a method called submerge( ) that will print "(boat name) is submerging" 
-if the boat is undocked and "(boat name) can't sumberge" if the boat is docked.
+if the boat is undocked and "(boat name) can't submerge" if the boat is docked.
 
 Let's Float the Boat
 --------------------
