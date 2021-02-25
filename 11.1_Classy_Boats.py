@@ -4,7 +4,7 @@ CLASSY BOATS
 Use the following Pseudocode to create this program:
 
 1.) Create a class called Boat( )
-2.) Use a constructor that sets two attibutes: name and isDocked.
+2.) Use a constructor that sets two attributes: name and isDocked.
 3.) The name should be entered as an argument when the object is created.
 4.) The isDocked attribute is a Boolean variable. Set it to True.
 5.) Add a method called dock( )
