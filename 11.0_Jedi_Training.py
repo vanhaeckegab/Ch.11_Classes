@@ -79,15 +79,15 @@ class Dog(Animal):
 
 def main():
     cat = Cat("Fluffy")
-    dog1 = Dog("Fido")
-    dog2 = Dog("Floof")
-    snake = Animal("Snake")
     cat.eat()
     cat.make_noise()
+    dog1 = Dog("Fido")
     dog1.eat()
     dog1.make_noise()
+    dog2 = Dog("Doge")
     dog2.eat()
     dog2.make_noise()
+    snake = Animal("Snake")
     snake.eat()
     snake.make_noise()
 
